@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'podlove';
-	src:url('../font/$1podlove.eot?5yqmx2');
-	src:url('../font/$1podlove.eot?#iefix5yqmx2') format('embedded-opentype'),
-		url('../font/$1podlove.woff?5yqmx2') format('woff'),
-		url('../font/$1podlove.ttf?5yqmx2') format('truetype'),
-		url('../font/$1podlove.svg?5yqmx2#podlove') format('svg');
+	src:url('../font/podlove.eot?5yqmx2');
+	src:url('../font/podlove.eot?#iefix5yqmx2') format('embedded-opentype'),
+		url('../font/podlove.woff?5yqmx2') format('woff'),
+		url('../font/podlove.ttf?5yqmx2') format('truetype'),
+		url('../font/podlove.svg?5yqmx2#podlove') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
