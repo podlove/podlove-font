@@ -8,7 +8,8 @@
         "**/.*",
         "bin",
         "demo-files",
-        "index.html"
+        "index.html",
+        "selection.json"
     ],
     "keywords": [
         "podlove",
