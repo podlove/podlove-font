@@ -1,3 +1,4 @@
+#!/bin/sh
 #
 # import zip from icomoon
 #
@@ -11,27 +12,41 @@ then
   exit 1
 fi
 
+echo
 echo extracting $filename to $import
+echo
 
 unzip $filename -d $import
 
-# clean-up before
-
+echo
 echo cleaning up...
+
 rm ./css/*
 rm ./font/*
+rm ./demo-files/*
 
-# import icomoon
-
+echo
 echo importing files...
-mv $import/demo.html ./index.html
+echo
 
+echo - move icomoon project file
+mv $import/selection.json ./selection.json
+
+echo - move demo files
+mv $import/demo-files ./
+
+echo - move font files
 mv $import/fonts/* ./font
 
-mv $import/style.css ./css/podlovefont.css
-mv $import/ie7/ie7.css ./css/podlovefont-ie7.css
+echo - build index.html
+sed 's/style\.css/css\/podlove-font\.css/' $import/demo.html > $import/tmp1.html
+sed 's/ie7\/ie7\.css/css\/podlove-font-ie7\.css/' $import/tmp1.html > index.html
 
-# clean-up after
+echo - adapt paths and move the styles
+sed 's/fonts\//..\/font\/$1/g' $import/style.css > css/podlove-font.css
+mv $import/ie7/ie7.css ./css/podlove-font-ie7.css
 
-echo remove import folder
+echo
+echo remove import folder...
 rm -rf $import
+
