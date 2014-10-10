@@ -43,7 +43,7 @@ sed 's/style\.css/css\/podlove-font\.css/' $import/demo.html > $import/tmp1.html
 sed 's/ie7\/ie7\.css/css\/podlove-font-ie7\.css/' $import/tmp1.html > index.html
 
 echo - adapt paths and move the styles
-sed 's/fonts\//..\/font\/$1/g' $import/style.css > css/podlove-font.css
+sed 's/fonts\//..\/font\//g' $import/style.css > css/podlove-font.css
 mv $import/ie7/ie7.css ./css/podlove-font-ie7.css
 
 echo
