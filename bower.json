@@ -1,6 +1,6 @@
 {
     "name": "podlove-font",
-    "version": "2.0.0-alpha.2",
+    "version": "2.0.0-beta.2",
     "homepage": "http://podlove.org/",
     "description": "Icon font used in podlove projects.",
     "main": "font/podlove.ttf",
