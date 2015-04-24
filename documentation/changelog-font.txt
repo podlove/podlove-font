@@ -59,3 +59,22 @@ new icons
 removed icons
 ————————————————————————————————————————————————————————————————————————
 specific time control icons (1x, 1,5x, 2x)
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+24. April 2015
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+————————————————————————————————————————————————————————————————————————
+changes
+————————————————————————————————————————————————————————————————————————
+• Aliasing fix for chapters icon
+• new thinner look adapted for player controls and circled icons
+• updated shownot.es Icon
+
+————————————————————————————————————————————————————————————————————————
+new icons
+————————————————————————————————————————————————————————————————————————
+• controls-seeking
+• settings

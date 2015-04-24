@@ -3,8 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#181716" d="M8,15.996c-4.42,0-8.002-3.58-8.002-7.996S3.58,0.004,8,0.004
-	S16.002,3.584,16.002,8S12.42,15.996,8,15.996z M8.038,2.49c-0.655,0-1.186,0.53-1.186,1.185c0,0.653,0.53,1.185,1.186,1.185
-	c0.654,0,1.185-0.531,1.185-1.185C9.223,3.021,8.692,2.49,8.038,2.49z M9.223,7.228c0-0.653-0.53-1.185-1.185-1.185
-	c-0.655,0-1.186,0.531-1.186,1.185v5.132c0,0.654,0.53,1.184,1.186,1.184c0.654,0,1.185-0.529,1.185-1.184V7.228z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#181716" d="M7.016,14v-1h8V5h-8V4h9v10H7.016z M5.016,2h1v12h-1V2z M0.016,4h4
+	v1h-3v8h3v1h-4V4z"/>
 </svg>
