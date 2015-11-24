@@ -1,3 +1,120 @@
+.pwp-twitter {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf099;');
+}
+.pwp-facebook {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf09a;');
+}
+.pwp-github {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf09b;');
+}
+.pwp-google-plus {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0d5;');
+}
+.pwp-adn {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf170;');
+}
+.pwp-slack {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf198;');
+}
+.pwp-behance {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1b4;');
+}
+.pwp-soundcloud {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1be;');
+}
+.pwp-vine {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1ca;');
+}
+.pwp-git {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf1d3;');
+}
+.pwp-code {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe646;');
+}
+.pwp-google-drive {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe647;');
+}
+.pwp-instagram {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe648;');
+}
+.pwp-youtube {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe649;');
+}
+.pwp-vimeo {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64b;');
+}
+.pwp-flickr {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64c;');
+}
+.pwp-dribbble {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64d;');
+}
+.pwp-deviantart {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64e;');
+}
+.pwp-steam {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64f;');
+}
+.pwp-wordpress {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe650;');
+}
+.pwp-blogger {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe651;');
+}
+.pwp-tumblr {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe652;');
+}
+.pwp-skype {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe653;');
+}
+.pwp-reddit {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe654;');
+}
+.pwp-linkedin {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe655;');
+}
+.pwp-stackoverflow {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe656;');
+}
+.pwp-pinterest {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe657;');
+}
+.pwp-xing {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe658;');
+}
+.pwp-flattr {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe659;');
+}
+.pwp-paypal {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe65a;');
+}
+.pwp-cc {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe63e;');
+}
+.pwp-cc-by {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe63f;');
+}
+.pwp-cc-nc {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe640;');
+}
+.pwp-cc-nc-eu {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe641;');
+}
+.pwp-cc-nc-jp {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe642;');
+}
+.pwp-cc-sa {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe643;');
+}
+.pwp-cc-nd {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe644;');
+}
+.pwp-cc-pd {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe645;');
+}
+.pwp-instagram2 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64a;');
+}
 .pwp-select-0 {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
 }
@@ -174,91 +291,4 @@
 }
 .pwp-volume-on {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe93a;');
-}
-.pwp-code {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe646;');
-}
-.pwp-google-drive {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe647;');
-}
-.pwp-instagram {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe648;');
-}
-.pwp-youtube {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe649;');
-}
-.pwp-vimeo {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64b;');
-}
-.pwp-flickr {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64c;');
-}
-.pwp-dribbble {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64d;');
-}
-.pwp-deviantart {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64e;');
-}
-.pwp-steam {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64f;');
-}
-.pwp-wordpress {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe650;');
-}
-.pwp-blogger {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe651;');
-}
-.pwp-tumblr {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe652;');
-}
-.pwp-skype {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe653;');
-}
-.pwp-reddit {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe654;');
-}
-.pwp-linkedin {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe655;');
-}
-.pwp-stackoverflow {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe656;');
-}
-.pwp-pinterest {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe657;');
-}
-.pwp-xing {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe658;');
-}
-.pwp-flattr {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe659;');
-}
-.pwp-paypal {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe65a;');
-}
-.pwp-cc {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe63e;');
-}
-.pwp-cc-by {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe63f;');
-}
-.pwp-cc-nc {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe640;');
-}
-.pwp-cc-nc-eu {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe641;');
-}
-.pwp-cc-nc-jp {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe642;');
-}
-.pwp-cc-sa {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe643;');
-}
-.pwp-cc-nd {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe644;');
-}
-.pwp-cc-pd {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe645;');
-}
-.pwp-instagram2 {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe64a;');
 }
