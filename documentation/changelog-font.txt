@@ -1,5 +1,25 @@
 Changelog
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+24. November 2015
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+————————————————————————————————————————————————————————————————————————
+changes
+————————————————————————————————————————————————————————————————————————
+• finished new thinner design for all icons
+• New Look for Chapters
+• New Podlove Icon
+
+————————————————————————————————————————————————————————————————————————
+new icons
+————————————————————————————————————————————————————————————————————————
+• select-1-checkbox
+• select-1-radio
+• select-0
+
+————————————————————————————————————————————————————————————————————————
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 8. November 2014

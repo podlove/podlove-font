@@ -3,8 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#181716" d="M5.055,2.026l5.999,6l-5.988,5.988
-	c-0.195,0.195-0.195,0.512,0,0.707s0.512,0.195,0.707,0l6.364-6.364c0.195-0.195,0.195-0.512,0-0.707
-	c-0.002-0.002-0.005-0.002-0.007-0.004s-0.002-0.005-0.005-0.007L5.783,1.298c-0.201-0.202-0.527-0.202-0.729,0
-	C4.853,1.499,4.853,1.825,5.055,2.026z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#181716" d="M13,14H3c-0.552,0-1-0.447-1-1V3c0-0.553,0.448-1,1-1h10
+	c0.552,0,1,0.447,1,1v10C14,13.553,13.552,14,13,14z M13,3H3v10h10V3z M5.354,4.646L8,7.293l2.646-2.646l0.707,0.707L8.707,8
+	l2.646,2.646l-0.707,0.707L8,8.707l-2.646,2.646l-0.707-0.707L7.293,8L4.646,5.354L5.354,4.646z"/>
 </svg>
